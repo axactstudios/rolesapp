@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893646056263",
+    "firebase_url": "https://rolesapp-df613.firebaseio.com",
+    "project_id": "rolesapp-df613",
+    "storage_bucket": "rolesapp-df613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893646056263:android:c01832ed5406570430ba62",
+        "android_client_info": {
+          "package_name": "com.axactstudios.rolesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893646056263-4i18qg5vsdf8nq2v2cn0a91et3vvoq2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeFv6iLOuW2RvQz2lFwgFdhpMbRNTwwKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893646056263-4i18qg5vsdf8nq2v2cn0a91et3vvoq2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
